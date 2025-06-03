@@ -21,10 +21,10 @@ I am a full stack web developer who loves to appreciate vast and powerful engine
 
 ## 🔗 Connect with Me
 
-<a href="https://instagram.com/yourusername">
+<a href="https://instagram.com/h_l_m_a_n_s_h_u__">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
 </a>
-<a href="mailto:youremail@gmail.com">
+<a href="mailto:himanshupadecha@gmail.com">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
 </a>
 
