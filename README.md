@@ -1,11 +1,11 @@
 # Hey 👋 What are you coding today?
 
----
+
 
 🎯 It's not about you will never get an error, It's about you will always find a way to solve it.  
 🎯 Make it work, make it right, make it fast.
 
----
+
 
 ## ⚡ About me
 
